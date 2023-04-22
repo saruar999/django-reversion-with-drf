@@ -1,0 +1,1 @@
+A simple blog API with Django Reversion implemented, for instance version history and reversion.
